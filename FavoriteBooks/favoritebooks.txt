@@ -1,0 +1,5 @@
+1,Nutuk,History,Mustafa Kemal Atatürk,No award,5,2019,640,It is a book in which Ataturk narrates the War of Independence period expression in the first person. It is an important work in the history of the republic.
+2,Kurk Mantolu Madonna,Literature,Sabahattin Ali,No award,4,2018,177,There is a sad love story Kurk Mantolu Madonna.Raif Efendi's falling in love with Maria Puder whom she met at a painting exhibition in Germany during her youth.And events related are followed.
+3,Su Cilgin Turkler,History,Turgut Ozakman,No award,4,2019,752,It is a documentary novel by Turgut Ozakman about the War of Independence.
+4,Kuyucakli Yusuf,Literature,Sabahattin Ali,No Award,3,2020,220,It is told that Yusuf who was left unattended by the murder of his family was adopted by Nazilli District Governer Selahattin Bey who came to Kuyucak to investigate his case.
+5,Deniz Feneri,Literature,Virginia Wolf,No award,3,2021,224,In the center of The Lighthouse it follows the Ramsay family who stayed at their home on the Scottish Isle of Skye before and after World War I.
