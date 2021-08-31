@@ -1,2 +1,3 @@
 # My Final Project of Software System Analysis Course
  My project is designed as a Desktop Application (with GUI) developed with Java programming language. 
+ My project is called FavoriteBooks, it includes 8 functions. You can access these functions after logging in with the correct username. First of all, I progressed by creating separate frames for each of my functions in my project, but the beginning of all of them is in the BookFrameForm. All my functions expect the user to enter an input into the textfield. If the inputs are correct, the function works, but if it is wrong, it gives a warning message.The overall goal of my project is to absorb the GUI design. Basic functions and file movements and GUI design are intertwined.
